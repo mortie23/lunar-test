@@ -1,0 +1,23 @@
+{
+  "name": "lunar-test",
+  "version": "1.0.0",
+  "description": "Quick test on using lunar.js for seaching content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "main": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortie23/lunar-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortie23/lunar-test/issues"
+  },
+  "homepage": "https://github.com/mortie23/lunar-test#readme",
+  "dependencies": {
+    "lunr": "^2.3.9"
+  }
+}
